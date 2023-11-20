@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'WildDrone',
-  tagline: 'Training Resources',
+  tagline: 'Training Repository',
   favicon: 'img/cropped-WildDrone_512x512-transparent-32x32.png',
 
   // Set the production url of your site here
