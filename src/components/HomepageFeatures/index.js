@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         WildDrone is an international training network funded by the EU Marie Skłodowska Curie Actions. 
-        The network will operate from 1 January 2023 – 31 December 2026. 
+        The network will operate from 1 January 2023 - 31 December 2026. 
       </>
     ),
   },
@@ -20,20 +20,17 @@ const FeatureList = [
       <>
         We aim to revolutionize wildlife conservation practices by using autonomous drone technology 
         as a unifying platform to monitor wildlife populations, track their movements, and manage 
-        human-wildlife conflicts. We believe that the rapid decline of wildlife populations has 
-        prompted an urgent need for more effective and feasible nature conservation practices.
+        human-wildlife conflicts.
       </>
     ),
   },
   {
-    title: 'Doctoral projects',
+    title: 'Doctoral training',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         The consortium will train 13 doctoral candidates and equip them with a unique combination of 
-        multidisciplinary skills for drone-based ecology and wildlife conservation. The candidates 
-        will work closely together in a global training network to realize the full potential of 
-        drones and companion autonomous systems for nature conservation missions.
+        multidisciplinary skills for drone-based ecology and wildlife conservation.
       </>
     ),
   },
