@@ -37,7 +37,7 @@ export default function Home() {
       description="WildDrone training resources">
       <HomepageHeader />
       <main>
-        // <HomepageFeatures />
+        <HomepageFeatures />
       </main>
     </Layout>
   );
