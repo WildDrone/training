@@ -79,7 +79,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'trainingSidebar',
             position: 'left',
-            label: 'WildDrone Training',
+            label: 'Training index',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
