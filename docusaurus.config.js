@@ -41,6 +41,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -64,23 +65,19 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      // image: 'img/docusaurus-social-card.jpg',
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'WildDrone',
+        title: 'WildDrone Training',
         logo: {
           alt: 'WildDrone logo',
-          //src: 'img/logo.svg',
           src: 'img/WildDrone_Simple_logo_Colour.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'trainingSidebar',
-            position: 'left',
-            label: 'Training index',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'trainingSidebar',
+          //   position: 'left',
+          //   label: 'Training index',
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/WildDrone',
@@ -97,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Training index',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },

@@ -1,47 +1,19 @@
 ---
 sidebar_position: 1
+id: intro
+slug: /
 ---
 
-# Training Intro
+# WildDrone Training Repository
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![WildDrone logo](/img/WildDrone_Detailed_logo_300px.png)
 
-## Getting Started
+WildDrone is an international training network funded by the EU Marie Skłodowska Curie Actions. The network will operate from 1 January 2023 – 31 December 2026. Find out more at [WildDrone.eu](https://wilddrone.eu).
 
-Get started by **creating a new site**.
+##  Doctoral training
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This website is a repository of training materials for WildDrone doctoral candidates. DCs should use the menus to navigate to resources as instructed by WildDrone and instititional colleagues.
 
-### What you'll need
+## Copyright and permissions for reuse
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+ Where possible, resources are published for wider use. Please note copyright information in each resource, and where not stated please contact the respective author for information and permission on reuse.
