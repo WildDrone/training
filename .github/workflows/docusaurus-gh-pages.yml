@@ -36,6 +36,8 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      - name: Install KaTeX
+        run: npm install --save remark-math@6 rehype-katex@7
       - name: Build website
         run: npm run build
       - name: Upload artifact
