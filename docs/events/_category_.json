@@ -1,6 +1,6 @@
 {
-  "label": "M9 SDU Event",
-  "position": 2,
+  "label": "M9 Event",
+  "position": 4,
   "link": {
     "type": "generated-index",
     "description": "Training resources from September 2023 event at SDU"

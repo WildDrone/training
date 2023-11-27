@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-id: intro
+id: welcome
 slug: /
 ---
 
-# WildDrone Training Repository
+# Welcome
 
 ![WildDrone logo](/img/WildDrone_Detailed_logo_300px.png)
 
@@ -12,7 +12,7 @@ WildDrone is an international training network funded by the EU Marie Skłodowsk
 
 ## Doctoral training
 
-This website is a repository of training materials for WildDrone doctoral candidates. DCs should use the menus to navigate to resources as instructed by WildDrone and instititional colleagues.
+This website is a repository of training materials for WildDrone doctoral candidates. DCs should head to [curriculum](curriculum) or use the menus to navigate to resources as instructed by WildDrone and instititional colleagues.
 
 ## Reuse of materials
 
