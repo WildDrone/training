@@ -3,7 +3,7 @@ sidebar_position: 2
 id: curriculum
 ---
 
-# Curriculum index
+# Curriculum
 
 ## M9 event
 
@@ -21,7 +21,7 @@ id: curriculum
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
-| S3    | Animal ecology course                             | 2     |
+| S3    | [Wildlife ecology and conservation](courses/S3)   | 2     |
 | S4    | [Programming & data science basics](courses/S4)   | 2     |
 | S5    | Applied machine learning for computer vision      | 2     |
 
