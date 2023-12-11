@@ -1,6 +1,7 @@
 # WildDrone training repository
 
 This is the code for the WildDrone training website. 
+
 **If you're looking for the training activities, head to https://wilddrone.github.io/training/ .**
 
 ## Note to editors
