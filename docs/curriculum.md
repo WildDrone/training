@@ -21,9 +21,8 @@ id: curriculum
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
-| S3    | [Wildlife ecology and conservation](courses/S3)   | 2     |
-| S4    | [Programming & data science basics](courses/S4)   | 2     |
-| S5    | Applied machine learning for computer vision      | 2     |
+| S3    | [Wildlife ecology and conservation](courses/S3)   | 3     |
+| S4&5  | [Multidisciplinary Computer Science](courses/S4) | 3     |
 
 ## Future modules
 
