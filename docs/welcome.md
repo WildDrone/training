@@ -10,7 +10,7 @@ slug: /
 
 :::tip
 
-WildDrone doctoral candidates: head to [/courses](courses) to get started.
+WildDrone doctoral candidates: head to [/courses](category/courses) to get started.
 
 :::
 
