@@ -5,9 +5,11 @@ id: curriculum
 
 # Curriculum
 
+Details on e-learning courses are up now - others will be fleshed out soon for reference.
+
 ## M9 event
 
-| Type  | Module                                            | ECTS  |
+| Type  | Course                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
 | S1    | Drone operator training                           | 1     |
 | T1    | Drones for nature conservation basics             | 1     |
@@ -19,12 +21,12 @@ id: curriculum
 
 ## e-learning
 
-| Type  | Module                                            | ECTS  |
+| Type  | Course                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
 | S3    | [Wildlife ecology and conservation](courses/S3)   | 3     |
-| S4&5  | [Multidisciplinary Computer Science](courses/S4) | 3     |
+| S4&5  | [Multidisciplinary Computer Science](courses/S4)  | 3     |
 
-## Future modules
+## Future courses
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |

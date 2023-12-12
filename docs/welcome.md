@@ -8,6 +8,12 @@ slug: /
 
 ![WildDrone logo](/img/WildDrone_Detailed_logo_300px.png)
 
+:::tip
+
+WildDrone doctoral candidates: head to [/courses](courses) to get started.
+
+:::
+
 WildDrone is an international training network funded by the EU Marie Skłodowska Curie Actions. The network will operate from 1 January 2023 – 31 December 2026. Find out more at [WildDrone.eu](https://wilddrone.eu).
 
 ## Doctoral training
