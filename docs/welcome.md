@@ -8,13 +8,13 @@ slug: /
 
 ![WildDrone logo](/img/WildDrone_Detailed_logo_300px.png)
 
+WildDrone is an international training network funded by the EU Marie Skłodowska Curie Actions. The network will operate from 1 January 2023 – 31 December 2026. Find out more at [WildDrone.eu](https://wilddrone.eu).
+
 :::tip
 
-WildDrone doctoral candidates: head to [/courses](category/courses) to get started.
+WildDrone doctoral candidates: head straight to [/courses](category/courses) to get started.
 
 :::
-
-WildDrone is an international training network funded by the EU Marie Skłodowska Curie Actions. The network will operate from 1 January 2023 – 31 December 2026. Find out more at [WildDrone.eu](https://wilddrone.eu).
 
 ## Doctoral training
 
