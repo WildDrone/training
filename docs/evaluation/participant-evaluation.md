@@ -1,8 +1,8 @@
 ---
-id: M9
+id: evaluation
 ---
 
-# M9 training
+# Participant evaluation
 
 | Syntax      | Description |
 | ----------- | ----------- |
