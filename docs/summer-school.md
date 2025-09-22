@@ -35,9 +35,9 @@ Slides are linked where available.
 | Minimising acoustic drone disturbance to wildlife using species audiograms | [Isla Duporge](https://eeb.princeton.edu/people/isla-duporge) |
 | Workshop: What we talk about when we talk about design | [Mike Costelloe](https://costelloecreative.com) |
 | Natural and bio-inspired technologies reveal the importance of information networks in the sky for movement efficiency | [Hannah Williams](https://www.ab.mpg.de/person/104107) |
-| Tour of the Imaging Hangar | [Mathias Günther(https://www.ab.mpg.de/person/103344/2724)] and [Giovanni Reina(https://www.giovannireina.com)] |
+| Tour of the Imaging Hangar | [Mathias Günther](https://www.ab.mpg.de/person/103344/2724), [Giovanni Reina](https://www.giovannireina.com) |
 | **Day 5** | |
-| Integrating LLMs in robotics and drones | [Alejandro Jarabo Peñas(https://portal.findresearcher.sdu.dk/en/persons/alejp)] |
+| Integrating LLMs in robotics and drones | [Alejandro Jarabo Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp) |
 | Collective migration in soaring birds | [Andrea Flack](https://www.ab.mpg.de/person/98269) |
 | Flying Drones for Nature Conservation in the WildDrone Project | [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson) |
 | AI for Nature: From Science to Impact | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) |
