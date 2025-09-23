@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: summer-school
+id: overview
 ---
 
 # Overview
@@ -28,7 +28,7 @@ Slides are linked where available.
 | Drones for Nature Conservation – New Paradigms to Extend Environmental Monitoring Missions | [Salua Hamaza](https://saluahamaza.eu) |
 | Navigating the social and political implications of using drones in conservation | [Naomi Millner](https://www.bristol.ac.uk/people/person/Naomi-Millner-b593e7f6-07c1-4d0c-9ba2-3060a1353848/) |
 | Automatic Animal Behavior Inference Tutorial: How to Rapidly Annotate Behavior on Long Drone Videos? | [Aamir Ahmad](https://www.aamirahmad.de) |
-| Poster session | |
+| [Poster session](posters) | Student participants |
 | **Day 3** | |
 | How Machine Learning is Changing the Way Behavior can be Studied | [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
 | On the Interface between Conservation and Animal Culture | [Caroline Schuppli](https://www.ab.mpg.de/person/110356) |
