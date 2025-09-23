@@ -18,7 +18,7 @@ WildDrone doctoral candidates: head straight to [/courses](category/courses) to 
 
 ## Doctoral training
 
-This website is a repository of training materials for WildDrone doctoral candidates, participants in the WildDrone Summer School, and the wider network. WildDrone DCs should head to [curriculum](curriculum) or use the menus to navigate to resources as instructed by WildDrone and instititional colleagues.
+This website is a repository of training materials for WildDrone doctoral candidates, participants in the [WildDrone Summer School](summer-school/overview), and the wider network. WildDrone DCs should head to [curriculum](curriculum) or use the menus to navigate to resources as instructed by WildDrone and instititional colleagues.
 
 ## Reuse of materials
 
