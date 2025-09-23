@@ -5,13 +5,10 @@ id: resources
 
 # Resources
 
-## Integrating LLMs in robotics and drones
+## Integrating LLMs in Robotics & Drones
 
-Resources for the session delivered by [Alejandro Jarabo Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp).
+Resources for the session delivered by [Alejandro Jarabo Peñas](https://alejp.me).
 
-* [Link 1](#)
-* [Link 2](#)
-
-| Heading 1  | Heading 2 |
-| --- | --- |
-| Or you could use | a nice table like this |
+* [Slides](https://docs.google.com/presentation/d/1_mzC-YTtmjFQpnIp2erX1ge6tlfzEADmgWdAv_sNl2g/edit?usp=sharing)
+* [Colab Notebook: Part 1](https://tinyurl.com/3yw7ufe6)
+* [Colab Notebook: Part 2](https://tinyurl.com/4tbwztwa)
