@@ -22,7 +22,7 @@ Slides are linked where available.
 | Whale conservation: drone-based monitoring, its promise, and barriers to global adoption | [Maevatiana Ratsimbazafindranahaka](https://rmaevatiana.com)           |
 | Understanding the ecosystem of datasets in AI/Computer vision    |  [Hemal Naik](https://www.hemalnaik.com)                   |
 | Deterring human wildlife conflict    |    [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b)                        |
-| Academic career paths, industrial options, and speaker stories                        | [Steve Bullock](https://steve.engineer); [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b), Elzbieta Pastucha, [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
+| Academic career paths, industrial options, and speaker stories                        | [Steve Bullock](https://steve.engineer); [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b), [Elzbieta Pastucha](https://www.linkedin.com/in/elżbietawpastucha/), [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
 | **Day 2** | |
 | Collective behaviours in wild Indian wolves | [Adwait Deshpande](https://www.ab.mpg.de/person/111829) |
 | Drones for Nature Conservation – New Paradigms to Extend Environmental Monitoring Missions | [Salua Hamaza](https://saluahamaza.eu) |
