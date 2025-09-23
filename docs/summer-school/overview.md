@@ -3,7 +3,7 @@ sidebar_position: 1
 id: summer-school
 ---
 
-# Summer School overview
+# Overview
 
 ![University of Konstanz aerial photo](/img/u_konstanz.jpg)
 
