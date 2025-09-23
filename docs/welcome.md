@@ -10,15 +10,15 @@ slug: /
 
 WildDrone is an international training network funded by the EU Marie Skłodowska Curie Actions, operating from 1 January 2023 – 31 December 2026. Find out more at [WildDrone.eu](https://wilddrone.eu).
 
-:::tip
-
-WildDrone doctoral candidates: head straight to [/courses](category/courses) to get started.
-
 :::
 
 ## Doctoral training
 
-This website is a repository of training materials for WildDrone doctoral candidates, participants in the [WildDrone Summer School](summer-school/overview), and the wider network. WildDrone DCs should head to [curriculum](curriculum) or use the menus to navigate to resources as instructed by WildDrone and instititional colleagues.
+This website is a repository of training materials for WildDrone doctoral candidates, participants in the [WildDrone Summer School](summer-school/overview), and the wider network. 
+
+:::tip
+
+WildDrone doctoral candidates: head straight to [/courses](category/courses) to get started.
 
 ## Reuse of materials
 
