@@ -40,7 +40,7 @@ Slides are linked where available.
 | Natural and bio-inspired technologies reveal the importance of information networks in the sky for movement efficiency | [Hannah Williams](https://www.ab.mpg.de/person/104107) |
 | Tour of the Imaging Hangar | [Mathias Günther](https://www.ab.mpg.de/person/103344/2724), [Giovanni Reina](https://www.giovannireina.com) |
 | **Day 5** | |
-| Integrating LLMs in robotics and drones ([session resources](resources#integrating-llms-in-robotics-and-drones)) | [Alejandro Jarabo Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp) |
+| [Integrating LLMs in robotics and drones](/summerschool-presentations/wilddrone-summerschool-jarabopenas.pdf) ([session resources](resources#integrating-llms-in-robotics-and-drones)) | [Alejandro Jarabo Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp) |
 | Collective migration in soaring birds | [Andrea Flack](https://www.ab.mpg.de/person/98269) |
 | Flying Drones for Nature Conservation in the WildDrone Project | [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson) |
 | AI for Nature: From Science to Impact | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) |
