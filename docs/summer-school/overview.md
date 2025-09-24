@@ -20,7 +20,7 @@ Slides are linked where available.
 | Welcome and Introduction    | [Martin Wikelski](https://www.ab.mpg.de/person/98226), [Ulrik Pagh Schultz Lundquist](https://portal.findresearcher.sdu.dk/en/persons/ulrik-pagh-schultz-lundquist) |
 | Scaling Up Behavioural Ecology    | [Blair Costelloe](https://blaircostelloe.com)             |
 | Whale conservation: drone-based monitoring, its promise, and barriers to global adoption | [Maevatiana Ratsimbazafindranahaka](https://rmaevatiana.com)           |
-| [Understanding the ecosystem of datasets in AI/Computer vision](/summerschool-presentations/wilddrone-summerschool-naik.pdf)    |  [Hemal Naik](https://www.hemalnaik.com)                   |
+| [Understanding the ecosystem of datasets in AI/Computer vision](https://doi.org/10.6084/m9.figshare.30195937)    |  [Hemal Naik](https://www.hemalnaik.com)                   |
 | [Deterring human wildlife conflict](https://doi.org/10.6084/m9.figshare.30195826)    |    [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b)                        |
 | Academic career paths, industrial options, and speaker stories                        | [Steve Bullock](https://steve.engineer); [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b), [Elzbieta Pastucha](https://www.linkedin.com/in/elżbietawpastucha/), [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
 | **Day 2** | |
