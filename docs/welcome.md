@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-id: welcome
+id: home
 slug: /
 ---
 
-# Welcome
+# Home
 
 ![WildDrone logo](/img/WildDrone_Detailed_logo_300px.png)
 
