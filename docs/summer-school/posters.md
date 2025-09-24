@@ -9,4 +9,4 @@ Student attendees were invited to present posters showcasing their work, those m
 
 | Presenter  | Title |
 | --- | --- |
-| A. Gazelle | Running from drones: an account of WildDrone from the other side |
+| [Edoaurd Rolland](https://www.linkedin.com/in/edouardrolland/) | [Running from drones: an account of WildDrone from the other side](https://doi.org/10.6084/m9.figshare.30196393.v3) |
