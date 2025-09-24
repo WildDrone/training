@@ -21,7 +21,7 @@ Slides are linked where available.
 | Scaling Up Behavioural Ecology    | [Blair Costelloe](https://blaircostelloe.com)             |
 | Whale conservation: drone-based monitoring, its promise, and barriers to global adoption | [Maevatiana Ratsimbazafindranahaka](https://rmaevatiana.com)           |
 | [Understanding the ecosystem of datasets in AI/Computer vision](/summerschool-presentations/wilddrone-summerschool-naik.pdf)    |  [Hemal Naik](https://www.hemalnaik.com)                   |
-| [Deterring human wildlife conflict](/summerschool-presentations/wilddrone-summerschool-penny.pdf)    |    [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b)                        |
+| [Deterring human wildlife conflict](https://doi.org/10.6084/m9.figshare.30195826)    |    [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b)                        |
 | Academic career paths, industrial options, and speaker stories                        | [Steve Bullock](https://steve.engineer); [Sam Penny](https://www.linkedin.com/in/samuel-penny-01aa2220b), [Elzbieta Pastucha](https://www.linkedin.com/in/elżbietawpastucha/), [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
 | **Day 2** | |
 | Collective behaviours in wild Indian wolves | [Adwait Deshpande](https://www.ab.mpg.de/person/111829) |
