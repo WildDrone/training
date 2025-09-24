@@ -5,11 +5,9 @@ id: overview
 
 # Overview
 
-![University of Konstanz aerial photo](/img/u_konstanz.jpg)
+![WildDrone Summer School attendees](/img/summerschool-group.jpg)
 
 The WildDrone Summer School was held in September 2025 at the [Max Planck Institute for Animal Behavior](https://www.ab.mpg.de) in Konstanz, Germany. Sessions were delivered by 26 leading researchers and experts in animal behaviour, AI, robotics, and more, with 31 student participants from across the EU and the world. 
-
-![WildDrone Summer School attendees](/img/summerschool-group.jpg)
 
 ## Sessions
 
@@ -46,3 +44,5 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | Flying Drones for Nature Conservation in the WildDrone Project | [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson) |
 | AI for Nature: From Science to Impact | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) |
 | Panel discussion: Biology and Robotics: Challenges ahead and integration between different sciences | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1), [Stefano Mintchev](https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html), [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson), [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) | 
+
+![University of Konstanz aerial photo](/img/u_konstanz.jpg)
