@@ -12,7 +12,7 @@ The WildDrone Summer School was held in September 2025 at the [Max Planck Instit
 
 ## Sessions
 
-Slides are linked where available.
+Slides are linked below where available, and [collated on Figshare](https://doi.org/10.6084/m9.figshare.c.8051500).
 
 | Session  | Presenter                                            |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------- |
