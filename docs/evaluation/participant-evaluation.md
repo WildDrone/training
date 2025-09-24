@@ -2,9 +2,6 @@
 id: evaluation
 ---
 
-# Participant evaluation
+# Training programme evaluation
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Periodic and summative evaluation of the WildDrone training programme will be undertaken and shared via funder reports and wider publications.
