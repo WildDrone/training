@@ -9,5 +9,6 @@ Student attendees were invited to present posters showcasing their work, those m
 
 | Presenter  | Title |
 | --- | --- |
+| [Lucie Laporte-Devylder](https://www.linkedin.com/in/lucie-laporte-devylder/) | [In The Tracks of a Whale - Thermal Drones for Non-Invasive Monitoring of Marine Mammals](https://doi.org/10.6084/m9.figshare.30196531.v1) |
 | [Edouard Rolland](https://www.linkedin.com/in/edouardrolland/) | [Running from drones: an account of WildDrone from the other side](https://doi.org/10.6084/m9.figshare.30196393.v3) |
 | [Christian Winkelmann](https://www.linkedin.com/in/christian-winkelmann/) | [Iguanas from Above: Iguana Detection using Deep Learning](https://doi.org/10.6084/m9.figshare.30148708.v1) |
