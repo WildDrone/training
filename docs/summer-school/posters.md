@@ -5,6 +5,8 @@ id: posters
 
 # Posters
 
+![WildDrone Summer School poster session](/img/summerschool-posters.jpg)
+
 Student attendees were invited to present posters showcasing their work, those made available online are linked here, and [collated on Figshare](https://doi.org/10.6084/m9.figshare.c.8051746).
 
 | Presenter  | Title |
