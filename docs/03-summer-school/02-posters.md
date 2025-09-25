@@ -1,8 +1,3 @@
----
-sidebar_position: 2
-id: posters
----
-
 # Posters
 
 ![WildDrone Summer School poster session](/img/summerschool-posters.jpg)
