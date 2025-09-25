@@ -24,3 +24,4 @@ Student attendees were invited to present posters showcasing their work, those m
 | [Edouard Rolland](https://www.linkedin.com/in/edouardrolland/) | [Drone Swarms for Multi-Perspective Monitoring of Large Mammals in their Natural Habitats](https://doi.org/10.6084/m9.figshare.30196393) |
 | [Camille Rondeau Saint-Jean](https://www.linkedin.com/in/camille-rondeau-saint-jean-258193156/) | [So, you're fat-shaming animals with drones?](https://doi.org/10.6084/m9.figshare.30198487) |
 | [Christian Winkelmann](https://www.linkedin.com/in/christian-winkelmann/) | [Iguanas from Above: Iguana Detection using Deep Learning](https://doi.org/10.6084/m9.figshare.30148708) |
+| [András Zábó](https://www.linkedin.com/in/andraszabo/) | [Real-time Animal re-ID on Edge Devices](https://doi.org/10.6084/m9.figshare.30203575) |
