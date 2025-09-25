@@ -9,11 +9,13 @@ Student attendees were invited to present posters showcasing their work, those m
 
 | Presenter  | Title |
 | --- | --- |
-| [Saadia Afridi](http://linkedin.com/in/saadia-afridi-880a842b8) | [Wildlife responses to drone noise: an integrated approach for single- and dual-drone flights](https://doi.org/10.6084/m9.figshare.30198472) |
+| [Saadia Afridi](http://www.linkedin.com/in/saadia-afridi-880a842b8) | [Wildlife responses to drone noise: an integrated approach for single- and dual-drone flights](https://doi.org/10.6084/m9.figshare.30198472) |
 | [Clement Berthelot](http://www.linkedin.com/in/clément-berthelot-wilddrone) | [Studying resource use by a long-distance migrant using drone technology](https://doi.org/10.6084/m9.figshare.30198610) |
 | [Lucie Laporte-Devylder](https://www.linkedin.com/in/lucie-laporte-devylder/) | [In The Tracks of a Whale - Thermal Drones for Non-Invasive Monitoring of Marine Mammals](https://doi.org/10.6084/m9.figshare.30196531) |
 | [Giovanni Di Lorenzo](https://www.linkedin.com/in/gdl96/) | [Towards a Unified Framework for Robotic Ecological Monitoring and Control](https://doi.org/10.6084/m9.figshare.30197311) |
 | [Kilian Meier](https://scholar.google.com/citations?hl=en&user=yx6FQpEAAAAJ) | [Simulated and Field-Based Error Characterisation of Animal Geolocalisation and Relative Positioning via Commercial Drones](https://doi.org/10.6084/m9.figshare.30206908) |
+| [Lucy Millington](https://www.linkedin.com/in/lucy-millington-183757145/) | [Integrating LiDAR and Primate Surveys to Assess Habitat Characteristics in Tropical Forests](https://doi.org/10.6084/m9.figshare.30207634) |
+| [Constanza Molina](https://www.linkedin.com/in/constanza-andrea-molina-catricheo-a28021175) | [3D Reconstruction and Semantic Segmentation of Natural Habitats for Wildlife Conservation](https://doi.org/10.6084/m9.figshare.30207454.v1) |
 | [Christoph Praschl](https://www.linkedin.com/in/christophpraschl/) | [Visual Wildlife Monitoring in Forests using Uncrewed Aerial Vehicles](http://doi.org/10.6084/m9.figshare.30203827) |
 | [Alessandro Puglisi](https://www.linkedin.com/in/puglisialessandro/) | [Robots for Nature and Renewables: From multi-modal robot for exploration to underwater robotics using acoustic sensors for inspection and monitoring in offshore wind farms](https://doi.org/10.6084/m9.figshare.30200254) |
 | [Edouard Rolland](https://www.linkedin.com/in/edouardrolland/) | [Drone Swarms for Multi-Perspective Monitoring of Large Mammals in their Natural Habitats](https://doi.org/10.6084/m9.figshare.30196393) |
