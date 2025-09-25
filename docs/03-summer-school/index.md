@@ -1,9 +1,4 @@
----
-sidebar_position: 1
-id: overview
----
-
-# Overview
+# Summer School
 
 ![WildDrone Summer School attendees](/img/summerschool-group.jpg)
 
@@ -27,7 +22,7 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | Drones for Nature Conservation – New Paradigms to Extend Environmental Monitoring Missions | [Salua Hamaza](https://saluahamaza.eu) |
 | [Navigating the social and political implications of using drones in conservation](https://doi.org/10.6084/m9.figshare.30207892) | [Naomi Millner](https://www.bristol.ac.uk/people/person/Naomi-Millner-b593e7f6-07c1-4d0c-9ba2-3060a1353848/) |
 | Automatic Animal Behavior Inference Tutorial: How to Rapidly Annotate Behavior on Long Drone Videos? | [Aamir Ahmad](https://www.aamirahmad.de) |
-| [Poster session](posters) | Student participants |
+| [Poster session](summer-school/posters) | Student participants |
 | **Day 3** | |
 | How Machine Learning is Changing the Way Behavior can be Studied | [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
 | On the Interface between Conservation and Animal Culture | [Caroline Schuppli](https://www.ab.mpg.de/person/110356) |
@@ -39,7 +34,7 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | Natural and bio-inspired technologies reveal the importance of information networks in the sky for movement efficiency | [Hannah Williams](https://www.ab.mpg.de/person/104107) |
 | Tour of the Imaging Hangar | [Mathias Günther](https://www.ab.mpg.de/person/103344/2724), [Giovanni Reina](https://www.giovannireina.com) |
 | **Day 5** | |
-| Integrating LLMs in robotics and drones ([session resources](resources#integrating-llms-in-robotics--drones)) | [Alejandro Jarabo Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp) |
+| Integrating LLMs in robotics and drones ([session resources](summer-school/resources#integrating-llms-in-robotics--drones)) | [Alejandro Jarabo Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp) |
 | Collective migration in soaring birds | [Andrea Flack](https://www.ab.mpg.de/person/98269) |
 | Flying Drones for Nature Conservation in the WildDrone Project | [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson) |
 | AI for Nature: From Science to Impact | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) |

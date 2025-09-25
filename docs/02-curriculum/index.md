@@ -1,8 +1,3 @@
----
-sidebar_position: 2
-id: curriculum
----
-
 # Curriculum
 
 The WildDrone training curriculum is defined in the grant proposal and includes a range of activities, many of them credit-bearing for doctoral candidates required to collect ECTS credits. All activities are open to DCs, and the Summer School will be open to wider attendees. 
@@ -27,8 +22,8 @@ Doctoral candidates undertook self-paced online training to build interdisciplin
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
-| S3    | [Wildlife ecology and conservation](courses/S3)   | 3     |
-| S4&5  | [Multidisciplinary Computer Science](courses/S4)  | 3     |
+| S3    | [Wildlife ecology and conservation](curriculum/S3)   | 3     |
+| S4&5  | [Multidisciplinary Computer Science](curriculum/S4)  | 3     |
 
 ## Periodic reporting and planning
 
@@ -58,11 +53,11 @@ DCs undertook tailored training at their home institutions and on field placemen
 
 ## Summer School
 
-The [WildDrone Summer School](summer-school/overview) was held at the Max Planck Institute for Animal Behaviour in Konstanz, Germany, in month 33 (September 2025), and was followed by the annual research review update. DCs also reflected on their individual PCDPs (Personal Career Development Plans) and their future plans.
+The [WildDrone Summer School](summer school) was held at the Max Planck Institute for Animal Behaviour in Konstanz, Germany, in month 33 (September 2025), and was followed by the annual research review update. DCs also reflected on their individual PCDPs (Personal Career Development Plans) and their future plans.
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
-| S10   | [Summer School](summer-school/overview)                    | 5     |
+| S10   | [Summer School](summer school)                    | 5     |
 | T7    | Career development & entrepreneurship             | 1     |
 | R3    | Internal research review update                   | 0     |
 
