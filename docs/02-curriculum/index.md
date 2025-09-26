@@ -57,7 +57,7 @@ The [WildDrone Summer School](summer school) was held at the Max Planck Institut
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
-| S10   | [Summer School](summer school)                    | 5     |
+| S10   | [Summer School](summer-school)                    | 5     |
 | T7    | Career development & entrepreneurship             | 1     |
 | R3    | Internal research review update                   | 0     |
 
