@@ -8,6 +8,8 @@ Student attendees were invited to present posters showcasing their work, those m
 | --- | --- |
 | [Saadia Afridi](http://www.linkedin.com/in/saadia-afridi-880a842b8) | [Wildlife responses to drone noise: an integrated approach for single- and dual-drone flights](https://doi.org/10.6084/m9.figshare.30198472) |
 | [Clement Berthelot](http://www.linkedin.com/in/clément-berthelot-wilddrone) | [Studying resource use by a long-distance migrant using drone technology](https://doi.org/10.6084/m9.figshare.30198610) |
+| [Elena Iannino](https://orcid.org/0009-0009-8474-1861) | [Fine-sscale spatial and hunting of lions in relation to prey species presence](https://doi.org/10.6084/m9.figshare.30213712) |
+| [Jenna Kline](https://jennamk14.github.io) | [How do drones fit into multimodal sensing networks?](https://doi.org/10.6084/m9.figshare.30217195) |
 | [Lucie Laporte-Devylder](https://www.linkedin.com/in/lucie-laporte-devylder/) | [In The Tracks of a Whale - Thermal Drones for Non-Invasive Monitoring of Marine Mammals](https://doi.org/10.6084/m9.figshare.30196531) |
 | [Giovanni Di Lorenzo](https://www.linkedin.com/in/gdl96/) | [Towards a Unified Framework for Robotic Ecological Monitoring and Control](https://doi.org/10.6084/m9.figshare.30197311) |
 | [Giacomo May](https://www.linkedin.com/in/giacomo-may-6a78b6265/) | [How to Minimise the Annotation Effort in Aerial Wildlife Surveys](https://doi.org/10.6084/m9.figshare.30208231) |
