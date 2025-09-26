@@ -12,7 +12,7 @@ Student attendees were invited to present posters and 21 showcased their work, t
 | [Jenna Kline](https://jennamk14.github.io) | [How do drones fit into multimodal sensing networks?](https://doi.org/10.6084/m9.figshare.30217195) |
 | [Lucie Laporte-Devylder](https://www.linkedin.com/in/lucie-laporte-devylder/) | [In The Tracks of a Whale - Thermal Drones for Non-Invasive Monitoring of Marine Mammals](https://doi.org/10.6084/m9.figshare.30196531) |
 | [Giovanni Di Lorenzo](https://www.linkedin.com/in/gdl96/) | [Towards a Unified Framework for Robotic Ecological Monitoring and Control](https://doi.org/10.6084/m9.figshare.30197311) |
-| [Guy Maalouf](https://www.linkedin.com/in/guymaalouf/) | Trying to fly BVLOS without losing your mind? Let me show you what worked for us |
+| [Guy Maalouf](https://www.linkedin.com/in/guymaalouf/) | [Trying to fly BVLOS without losing your mind?](https://doi.org/10.6084/m9.figshare.30217651) |
 | [Giacomo May](https://www.linkedin.com/in/giacomo-may-6a78b6265/) | [How to Minimise the Annotation Effort in Aerial Wildlife Surveys](https://doi.org/10.6084/m9.figshare.30208231) |
 | [Kilian Meier](https://scholar.google.com/citations?hl=en&user=yx6FQpEAAAAJ) | [Simulated and Field-Based Error Characterisation of Animal Geolocalisation and Relative Positioning via Commercial Drones](https://doi.org/10.6084/m9.figshare.30206908) |
 | [Lucy Millington](https://www.linkedin.com/in/lucy-millington-183757145/) | [Integrating LiDAR and Primate Surveys to Assess Habitat Characteristics in Tropical Forests](https://doi.org/10.6084/m9.figshare.30207634) |
