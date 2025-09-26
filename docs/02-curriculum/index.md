@@ -1,6 +1,6 @@
 # Curriculum
 
-The WildDrone training curriculum is defined in the grant proposal and includes a range of activities, many of them credit-bearing for doctoral candidates required to collect ECTS credits. All activities are open to DCs, and the Summer School will be open to wider attendees. 
+The WildDrone doctoral training curriculum is defined in the grant proposal and includes a range of activities, many of them credit-bearing for doctoral candidates required to collect ECTS credits. All activities are open to all DCs, and the Summer School will be open to wider attendees. 
 
 ## Initial training
 
@@ -53,7 +53,7 @@ DCs undertook tailored training at their home institutions and on field placemen
 
 ## Summer School
 
-The [WildDrone Summer School](summer school) was held at the Max Planck Institute for Animal Behaviour in Konstanz, Germany, in month 33 (September 2025), and was followed by the annual research review update. DCs also reflected on their individual PCDPs (Personal Career Development Plans) and their future plans.
+The [WildDrone Summer School](summer-school) was held at the Max Planck Institute for Animal Behaviour in Konstanz, Germany, in month 33 (September 2025), and was followed by the annual research review update. DCs also reflected on their individual PCDPs (Personal Career Development Plans) and their future plans.
 
 | Type  | Module                                            | ECTS  |
 | ----- | ------------------------------------------------- | ----- |
