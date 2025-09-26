@@ -14,9 +14,9 @@ WildDrone is an international training network funded by the EU Marie Skłodowsk
 
 This website is a repository of training materials for WildDrone doctoral candidates, participants in the [WildDrone Summer School](summer-school), and the wider network. 
 
-:::tip
+:::tip[WildDrone Doctoral Candidates]
 
-WildDrone doctoral candidates: head straight to [/curriculum](curriculum) to get started.
+Head straight to [/curriculum](curriculum) to access online learning materials.
 
 :::
 
