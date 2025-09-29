@@ -23,7 +23,7 @@ Student attendees were invited to present posters and 21 showcased their work, t
 | [Edouard Rolland](https://www.linkedin.com/in/edouardrolland/) | [Drone Swarms for Multi-Perspective Monitoring of Large Mammals in their Natural Habitats](https://doi.org/10.6084/m9.figshare.30196393) |
 | [Camille Rondeau Saint-Jean](https://www.linkedin.com/in/camille-rondeau-saint-jean-258193156/) | [So, you're fat-shaming animals with drones?](https://doi.org/10.6084/m9.figshare.30198487) |
 | [Vandita Shukla](https://www.linkedin.com/in/vandi-shukla/) | Another dimension for UAV-based wildlife monitoring: Training monocular 3D detectors without 3D wildlife data |
-| [Thomas Vogler](www.linkedin.com/in/thomas-vogler-15a67b227) | [Monitoring capercaillie and their lek sites using a drone mounted thermal camera](https://doi.org/10.6084/m9.figshare.30206878) |
+| [Thomas Vogler](https://www.linkedin.com/in/thomas-vogler-15a67b227) | [Monitoring capercaillie and their lek sites using a drone mounted thermal camera](https://doi.org/10.6084/m9.figshare.30206878) |
 | [Rebecca Wilks](https://www.linkedin.com/in/rebecca-wilks-77160b210/) | [Counting & remote sensing: a statistical perspective](https://doi.org/10.6084/m9.figshare.30217645) |
 | [Christian Winkelmann](https://www.linkedin.com/in/christian-winkelmann/) | [Iguanas from Above: Iguana Detection using Deep Learning](https://doi.org/10.6084/m9.figshare.30148708) |
 | [András Zábó](https://www.linkedin.com/in/andraszabo/) | [Real-time Animal re-ID on Edge Devices](https://doi.org/10.6084/m9.figshare.30203575) |
