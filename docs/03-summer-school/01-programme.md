@@ -19,11 +19,11 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | [Poster session](posters) | Student participants |
 | **Day 3** | |
 | [How Machine Learning is Changing the Way Behavior can be Studied](https://doi.org/10.6084/m9.figshare.30218389) | [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
-| On the Interface between Conservation and Animal Culture | [Caroline Schuppli](https://www.ab.mpg.de/person/110356) |
+| [On the Interface between Conservation and Animal Culture](https://doi.org/10.6084/m9.figshare.30272395) | [Caroline Schuppli](https://www.ab.mpg.de/person/110356) |
 | [Aerial Robots for Biodiversity Surveys in the Amazon: Lessons Learned and Future Opportunities from the XPRIZE Rainforest Competition](https://doi.org/10.6084/m9.figshare.30218443) | [Stefano Mintchev](https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html) |
-| Talk and tutorial: Animal Tracking with TRex | [Angela Albi](https://www.linkedin.com/in/angela-albi-401a3968/) |
+| [Animal Tracking with TRex](https://trex.run) | [Angela Albi](https://www.linkedin.com/in/angela-albi-401a3968/) |
 | **Day 4** | |
-| Minimising acoustic drone disturbance to wildlife using species audiograms | [Isla Duporge](https://eeb.princeton.edu/people/isla-duporge) |
+| [Mitigating acoustic disturbance from UAVs](https://doi.org/10.6084/m9.figshare.30271729) | [Isla Duporge](https://eeb.princeton.edu/people/isla-duporge) |
 | Workshop: What we talk about when we talk about design | [Mike Costelloe](https://costelloecreative.com) |
 | Natural and bio-inspired technologies reveal the importance of information networks in the sky for movement efficiency | [Hannah Williams](https://www.ab.mpg.de/person/104107) |
 | Tour of the Imaging Hangar | [Mathias Günther](https://www.ab.mpg.de/person/103344/2724), [Giovanni Reina](https://www.giovannireina.com) |
