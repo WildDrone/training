@@ -24,7 +24,7 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | [Animal Tracking with TRex](https://trex.run) | [Angela Albi](https://www.linkedin.com/in/angela-albi-401a3968/) |
 | **Day 4** | |
 | [Mitigating acoustic disturbance from UAVs](https://doi.org/10.6084/m9.figshare.30271729) | [Isla Duporge](https://eeb.princeton.edu/people/isla-duporge) |
-| [What we talk about when we talk about (poster) Design](https://doi.org/10.6084/m9.figshare.30285130) | [Mike Costelloe](https://costelloecreative.com) |
+| What we talk about when we talk about (poster) Design | [Mike Costelloe](https://costelloecreative.com) |
 | Natural and bio-inspired technologies reveal the importance of information networks in the sky for movement efficiency | [Hannah Williams](https://www.ab.mpg.de/person/104107) |
 | Tour of the Imaging Hangar | [Mathias Günther](https://www.ab.mpg.de/person/103344/2724), [Giovanni Reina](https://www.giovannireina.com) |
 | **Day 5** | |
