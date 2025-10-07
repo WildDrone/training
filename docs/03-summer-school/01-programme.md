@@ -21,7 +21,7 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | [How Machine Learning is Changing the Way Behavior can be Studied](https://doi.org/10.6084/m9.figshare.30218389) | [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) |
 | [On the Interface between Conservation and Animal Culture](https://doi.org/10.6084/m9.figshare.30272395) | [Caroline Schuppli](https://www.ab.mpg.de/person/110356) |
 | [Aerial Robots for Biodiversity Surveys in the Amazon: Lessons Learned and Future Opportunities from the XPRIZE Rainforest Competition](https://doi.org/10.6084/m9.figshare.30218443) | [Stefano Mintchev](https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html) |
-| [Animal Tracking with TRex](https://trex.run) | [Angela Albi](https://www.linkedin.com/in/angela-albi-401a3968/) |
+| [Animal Tracking with TRex](https://doi.org/10.6084/m9.figshare.30296116) | [Angela Albi](https://www.linkedin.com/in/angela-albi-401a3968/) and [Tristan Walter](https://www.ab.mpg.de/person/98168) |
 | **Day 4** | |
 | [Mitigating acoustic disturbance from UAVs](https://doi.org/10.6084/m9.figshare.30271729) | [Isla Duporge](https://eeb.princeton.edu/people/isla-duporge) |
 | What we talk about when we talk about (poster) Design | [Mike Costelloe](https://costelloecreative.com) |
