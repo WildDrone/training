@@ -31,7 +31,7 @@ Slides are linked below where available, and [collated on Figshare](https://doi.
 | [Integrating LLMs in robotics and drones](https://doi.org/10.6084/m9.figshare.30218470) ([session resources](resources#integrating-llms-in-robotics--drones)) | [Alejandro Jarabo-Peñas](https://portal.findresearcher.sdu.dk/en/persons/alejp) |
 | [Collective migration in soaring birds](https://doi.org/10.6084/m9.figshare.30218497) | [Andrea Flack](https://www.ab.mpg.de/person/98269) |
 | [Releasing Robots into the Wild(Drone)](https://doi.org/10.6084/m9.figshare.30218602) | [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson) |
-| AI for Nature: From Science to Impact | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) |
+| [AI for Nature: From Science to Impact](https://doi.org/10.6084/m9.figshare.30479627) | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1) |
 | Panel discussion: Biology and Robotics: Challenges ahead and integration between different sciences | [Tanya Berger-Wolf](https://cse.osu.edu/people/berger-wolf.1), [Stefano Mintchev](https://usys.ethz.ch/en/people/profile.MjczNjI4.TGlzdC8yODUyLDMyMDE5NzIyMg==.html), [Tom Richardson](https://research-information.bris.ac.uk/en/persons/tom-s-richardson), [Daniel Rubenstein](https://eeb.princeton.edu/people/daniel-rubenstein) | 
 
 ![University of Konstanz aerial photo](/img/u_konstanz.jpg)
