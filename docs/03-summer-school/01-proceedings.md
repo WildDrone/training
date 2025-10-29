@@ -1,4 +1,4 @@
-# Programme
+# Proceedings
 
 Slides are linked below where available, and [collated on Figshare](https://doi.org/10.6084/m9.figshare.c.8051500).
 
